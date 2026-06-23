@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9a39820e-2c33-4dbc-b993-62292a30bb9a" /> Hi there 
+Hi there 👋🏻
 
 I'm Bhanuka, a newbie programming engineer based in Sri Lanka.
 
